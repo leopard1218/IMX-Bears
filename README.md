@@ -1,1 +1,2 @@
-# IMX-Bears
+# NodeTemplate
+Clean Template for Node.JS Project
